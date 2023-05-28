@@ -4,8 +4,8 @@ module.exports = {
     theme: {
         extend: {
             animation: {
-                fade: 'fade 1s ease-in-out'
-            }
+                fade: 'fade 1s ease-in-out',
+            },
         },
     },
     plugins: [],
